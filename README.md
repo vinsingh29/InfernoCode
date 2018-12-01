@@ -1,5 +1,5 @@
 # InfernoCode
-First Prototype - Level1. This was developed to get feel of GreenFoot game engine. 
+- 2D Game, Implementated using GreenFoot
 
-test Commit User with email
+
 
